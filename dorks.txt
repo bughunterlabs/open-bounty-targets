@@ -1,0 +1,6 @@
+inurl:/responsible-disclosure
+inurl:/responsible-disclosure "pay"
+inurl:/responsible-disclosure "reward"
+site:*.com "responsible disclosure"
+inurl:security "reward"
+"powered by bugcrowd" -site:bugcrowd.com
